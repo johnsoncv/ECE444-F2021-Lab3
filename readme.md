@@ -2,6 +2,23 @@
 
 # This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
+# Activity 1:
+<img width="495" alt="Screen Shot 2021-10-03 at 14 39 41" src="https://user-images.githubusercontent.com/48742114/135768131-c5b21868-9114-4b6e-841e-adcfd50cb179.png">
+
+# Activity 2:
+<img width="1553" alt="Screen Shot 2021-10-03 at 14 57 27" src="https://user-images.githubusercontent.com/48742114/135768200-33e79b02-2566-4b8d-b155-c700924799fe.png">
+
+# Activity 3:
+<img width="1143" alt="Screen Shot 2021-10-03 at 15 06 07" src="https://user-images.githubusercontent.com/48742114/135768225-24818a48-0bd3-4fba-8b4b-c4a9855195ca.png">
+
+# Activity 4:
+<img width="1680" alt="Screen Shot 2021-10-03 at 15 06 58" src="https://user-images.githubusercontent.com/48742114/135768245-fa735791-4a14-4946-886b-510bbc13166e.png">
+
+# Activity 5:
+Functional requirement: The application should have a Wishlist feature where users can add their preferred  courses and keep track of them easily.
+Non-functional requirement: The application should be available and consistent, for example searching for ECE444 yields no results however searching for "software" has ECE444 as a result. Querying for the course code should show valid results.
+
+
 # CARTE Education Pathways
 
 ## Description
