@@ -16,6 +16,7 @@
 
 # Activity 5:
 Functional requirement: The application should have a Wishlist feature where users can add their preferred  courses and keep track of them easily.
+
 Non-functional requirement: The application should be available and consistent, for example searching for ECE444 yields no results however searching for "software" has ECE444 as a result. Querying for the course code should show valid results.
 
 
